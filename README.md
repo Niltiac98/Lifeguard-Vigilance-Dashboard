@@ -42,6 +42,8 @@ Depicts the distribution of audits across the weekdays. An ideal distribution wo
 The dashboard includes filters for date range, lifeguard name, weekday, lane number, and audit items. These filters facilitate on-the-go insights and detailed analysis of specific data points.
 
 ## Usage & Conclusion
+![Screenshot 2024-07-18 183153](https://github.com/user-attachments/assets/8e1f1d02-2095-465e-8a8d-2da9cddb51b3)
+
 Lifeguard instructors/supervisors utilize this dashboard daily to derive actionable insights. The data helps in making informed decisions about training focus and task delegation. Future enhancements could involve more detailed analysis of audit content, including factors like lifeguard position (sitting, standing, roving) and time of day, to further refine training and operational strategies.
 
 View the dashboard here: https://public.tableau.com/app/profile/caitlin.hueckstaedt/viz/LifeguardVigilance/LifeguardAuditTracker
