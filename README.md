@@ -1,6 +1,8 @@
 ## The Problem
 Managing lifeguard vigilance is crucial for ensuring safety and effectiveness. As a manager, identifying strengths and weaknesses in lifeguarding can be challenging without a structured approach. This project aims to create a comprehensive dashboard to improve processes, inform training focus, and enhance pool scanning delegation.
 
+View the dashboard here: https://public.tableau.com/app/profile/caitlin.hueckstaedt/viz/LifeguardVigilance/LifeguardAuditTracker
+
 ## Collecting Data
 To gather relevant data:
 
@@ -41,3 +43,5 @@ The dashboard includes filters for date range, lifeguard name, weekday, lane num
 
 ## Usage & Conclusion
 Lifeguard instructors/supervisors utilize this dashboard daily to derive actionable insights. The data helps in making informed decisions about training focus and task delegation. Future enhancements could involve more detailed analysis of audit content, including factors like lifeguard position (sitting, standing, roving) and time of day, to further refine training and operational strategies.
+
+View the dashboard here: https://public.tableau.com/app/profile/caitlin.hueckstaedt/viz/LifeguardVigilance/LifeguardAuditTracker
